@@ -1,0 +1,15 @@
+{
+  "name": "takecontrolofgoogledrive",
+  "version": "1.0.0",
+  "description": "take control of google drive by analyzing its activity feed",
+  "dependencies": {
+    "google-auth-library": "^0.9.9",
+    "googleapis": "^14.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "author": "erez weiss",
+  "license": "ISC"
+}
